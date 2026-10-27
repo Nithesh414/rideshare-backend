@@ -1,0 +1,14 @@
+﻿target/
+.env
+.env.*
+!.env.example
+*.log
+.idea/
+.vscode/
+target/
+.env
+.env.*
+!.env.example
+*.log
+.idea/
+.vscode/
